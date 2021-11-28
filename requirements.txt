@@ -1,3 +1,3 @@
 gdshortener == 1.0.1
 Python123 == 0.0.7
-pip == 21.3.1
+
