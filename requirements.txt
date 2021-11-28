@@ -1,1 +1,2 @@
 gdshortener == 1.0.1
+Python123 = 0.0.7
