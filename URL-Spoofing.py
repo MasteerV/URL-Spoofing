@@ -15,7 +15,6 @@ def ascii():
     print(" ◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤...")
     print("")
     print("")
-    print("")
 
 def clear():
     if os.name == "nt":
